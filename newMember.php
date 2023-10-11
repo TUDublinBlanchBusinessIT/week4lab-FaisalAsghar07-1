@@ -1,10 +1,10 @@
 <html>
     <body>
-        <form method="GET" action="processForm.php">
+        <form method="POST" action="Part2.php">
             <p>Enter your name</p>
-            <input name="firstName"/>
+            <input name="firstname"/>
             <br>
-            <input name="surName"/>
+            <input name="surname"/>
             <br>
             <input type="submit">
         </form>
