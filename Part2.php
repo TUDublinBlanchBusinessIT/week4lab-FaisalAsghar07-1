@@ -1,11 +1,11 @@
 <?php
-//TU913
-//Faisal Asghar
+//Give the name of the program here
+//Include your name and the date here
 //Give a brief description of what the program does
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "tennisclub";
+$username = "user";
+$password = "pass";
+$dbname = "database";
 $port = 3307;
 
 //set the default timezone - this is necessary since MySQL 8. This is an effort to store all dates and times together with their timezones. 
